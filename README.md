@@ -1,6 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=170&section=header&text=Hi!%20I'm%20Beauty%20Kim&fontSize=60&animation=twinkling)
 
 <div align=center>
+
+![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=170&section=header&text=Hi!%20I'm%20Beauty%20Kim&fontSize=60&animation=twinkling)
 
 <br/><br/>
 
