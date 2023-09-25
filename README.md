@@ -1,9 +1,9 @@
 
 <div align=center>
 
-![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=170&section=header&text=Hi!%20I'm%20Beauty%20Kim&fontSize=60&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=170&section=header&text=Hi!%20I'm%20Beauty%20Kim🐣&fontSize=60&animation=twinkling)
 
-<br/><br/>
+<br/>
 
 # 👩‍🎨 Front Tech Stack 👩‍🎨
 
@@ -18,7 +18,7 @@
  <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=flat&logo=tailwindcss&logoColor=white"/>
 <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white"/>
 
-<br/><br/>
+<br/>
 
 # 🔧 Tools 🔧
 
@@ -28,15 +28,13 @@
 <img src="https://img.shields.io/badge/slack-4A154B?style=flat&logo=slack&logoColor=white"/>
 <img src="https://img.shields.io/badge/zapier-FF4F00?style=flat&logo=zapier&logoColor=white"/>
 
-<br/><br/><br/>
-
-# 🐣
+<br/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=BeautyKim&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BeautyKim)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
-<br/><br/>
+<br/>
 
 <div align="right">
 
